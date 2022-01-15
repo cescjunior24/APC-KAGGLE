@@ -52,10 +52,10 @@ Durant aquesta pràctica hem realitzat diferents experiments per de pulir el nos
     
 | Model | Temps d'execució | Accuracy del test |
 |-----------|:------------|:-----------:|
-| Regressió Logística | 0.4715 s | 96.7% | 
-| MLP | 2.3490 s | 99.8% |
-| SVM (100 arbres) | 36.7268 s | 95.45% |
-| MLP amb millors paràmetres | 77.6756 s | 99.7% |
+| Regressió Logística | 0.1632 s | 96.7% | 
+| MLP |18.164s | 99.8% |
+| SVM | 0.9463 s | 95.45% |
+| MLP amb millors paràmetres | 20.555s | 99.7% |
 
 
 
