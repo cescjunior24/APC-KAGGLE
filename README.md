@@ -26,9 +26,8 @@ Aquest dataset correspoin a una versió augmentada del "Conjunt de dades simulat
     <li>g2: Coeficient d'elasticitat-preu (gamma) - Consumidor 1</li>
     <li>g3: Coeficient d'elasticitat-preu (gamma) - Consumidor 2</li>
     <li>g4: Coeficient d'elasticitat-preu (gamma) - Consumidor 3</li>
-    <li>Part real màxima de l'arrel característica de l'equació diferencial (si és positiva, el sistema és linealment inestable).</li>
-    <li>g4: Coeficient d'elasticitat-preu (gamma) - Consumidor 3</li>
-    <li>Etiqueta d'estabilitat del sistema (categòric: estable / inestable)</li>    
+    <li>stab: Part real màxima de l'arrel característica de l'equació diferencial (si és positiva, el sistema és linealment inestable).</li>
+    <li>stabf: Etiqueta d'estabilitat del sistema (categòric: estable / inestable)</li>    
 </ul>
 
 
