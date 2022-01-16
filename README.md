@@ -57,4 +57,14 @@ Durant aquesta pràctica hem realitzat diferents experiments per de pulir el nos
 | MLP amb millors paràmetres | 23.292s | 97.80% |
 
 
+<h2>Conclusions</h2>
+
+Un cop que ja hem obtingut els nostres resultats de les prediccions del set de test, podem veure que els nostres models implementats per aquesta base de dades estan funcionantn molt bé, ja que estem obtenint uns valors de accuracy de més del 90%.
+
+M'ha sorprès molt que una base de dades com aquesta amb una correlació força normal, pugui tenir una classificació molt bona, també haig de dir que el SVM classifica bé amb la BD reduïda però amb una quantitat menor de 10000 dades, el resultat es veu bastant reduït, amb un accuracy sobre el 60%.
+
+Com es pot veure en la taula, el pitjor dels casos és la regressió logistica, que ens ha donat un accuracy força bo, però és el més baix dels 4 models. En canvim el millor model amb l'accuracy més alt ha sigut el MLP amb millors paràmetres, ja que ens ha donat un resultat de 97.8%, però el temps d'execució d'aquest model és força lent ja que el learning rate l'hem baixat bastant i triga molt en fer les iteracions, tot i així amb el resultat que hem obtingut podem dir que aquest model per classificar les dades val molt la pena.
+
+També vaig provar de escalar les dades per tal d'obtenir millor resultats, però com heu pogut veure en les execucions del codi, la diferència de resultats no varia molt, per tant vaig decidir plasmar els resultats sense les dades escalades.
+
 
