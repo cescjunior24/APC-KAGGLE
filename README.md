@@ -44,7 +44,7 @@ Durant aquesta pràctica hem realitzat diferents experiments per de pulir el nos
     <li>Hem mirat la correlació de les dades i hem vist que els atributs p1,p2,p3,p4 tenien una correlació no gaire bona dintre dels atributs relacionats amb l'equilibri de potència, per tant el que he fet és eliminar-los perquè així augmentariem el rendiment dels nostres models </li>
     <li>El atributs target, que en aquest cas és el atribut stabf, aquest ens dius si és estable o inestable, per tant com que és un atribut que dues opcions le passsat a binari, o sigui le transformat en 0 si és estable i en 1 si és inestable</li>
     <li>El que he fet també abans de treballar amb els models, ha sigut mirar si el nostre dataset tenia valors nulls, en aquest cas no hem obtingut cap valor null, per tant no hem hagut de tractar-los</li>
-<ul>
+</ul>
     
     
 <h2>Models</h2>
