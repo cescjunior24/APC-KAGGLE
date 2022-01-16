@@ -4,10 +4,9 @@
 
 <h3> DATASET: smart grid Stability </h3>
 
-<h3 href="https://www.kaggle.com/pcbreviglieri/smart-grid-stability"> kaggle </h3>
+https://www.kaggle.com/pcbreviglieri/smart-grid-stability
 
-
-<h2> Resum </h2>
+<h2> Introducció </h2>
 
 Aquest dataset correspoin a una versió augmentada del "Conjunt de dades simulat d'estabilitat de la xarxa elèctrica", creat per Vadim Arzamasov i donat al Repositori d'aprenentatge automàtic de la Universitat de Califòrnia (UCI).
 
@@ -15,21 +14,21 @@ Aquest dataset correspoin a una versió augmentada del "Conjunt de dades simulat
 
 
 <ul>
-    <li>tau1: Reaction time - Energy producer</li>
-    <li>tau2: Reaction time - Consumer 1</li>
-    <li>tau3: Reaction time - Consumer 2</li>
-    <li>tau4: Reaction time - Consumer 3</li>
-    <li>p1: Power balance - Energy producer</li>
-    <li>p2: Power balance - Consumer 1</li>
-    <li>p3: Power balance - Consumer 2</li>
-    <li>p4: Power balance - Consumer 3</li>
-    <li>g1: Price elasticity coefficient (gamma) - Energy producer</li>
-    <li>g2: Price elasticity coefficient (gamma) - Consumer 1</li>
-    <li>g3: Price elasticity coefficient (gamma) - Consumer 2</li>
-    <li>g4: Price elasticity coefficient (gamma) - Consumer 3</li>
-    <li>Maximal real part of the characteristic differential equation root (if positive, the system is linearly unstable).</li>
-    <li>g4: Price elasticity coefficient (gamma) - Consumer 3</li>
-    <li>System's stability label (categorical: stable / unstable)</li>    
+    <li>tau1: Temps de reacció - Productor d'energia</li>
+    <li>tau2: Temps de reacció - Consumidor 1</li>
+    <li>tau3: Temps de reacció - Consumidor 2</li>
+    <li>tau4: Temps de reacció - Consumidor 3</li>
+    <li>p1: Balanç de potència - Productor d'energia</li>
+    <li>p2: Balanç de potència - Consumidor 1</li>
+    <li>p3: Balanç de potència - Consumidor 2</li>
+    <li>p4: Balanç de potència - Consumidor 3</li>
+    <li>g1: Coeficient d'elasticitat preu (gamma) - Productor d'energia</li>
+    <li>g2: Coeficient d'elasticitat-preu (gamma) - Consumidor 1</li>
+    <li>g3: Coeficient d'elasticitat-preu (gamma) - Consumidor 2</li>
+    <li>g4: Coeficient d'elasticitat-preu (gamma) - Consumidor 3</li>
+    <li>Part real màxima de l'arrel característica de l'equació diferencial (si és positiva, el sistema és linealment inestable).</li>
+    <li>g4: Coeficient d'elasticitat-preu (gamma) - Consumidor 3</li>
+    <li>Etiqueta d'estabilitat del sistema (categòric: estable / inestable)</li>    
 </ul>
 
 
